@@ -1,4 +1,4 @@
-# favourite_airports
+# Vuex State Management Demo
 
 ## Project setup
 ```
